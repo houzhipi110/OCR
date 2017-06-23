@@ -1,0 +1,34 @@
+{
+  "name": "ocr",
+  "version": "1.0.0",
+  "description": "OCR",
+  "main": "fulltest.js",
+  "dependencies": {
+    "bluebird": "^3.5.0",
+    "body-parser": "^1.17.2",
+    "bunyan": "^1.8.10",
+    "cfenv": "^1.0.4",
+    "config": "^1.26.1",
+    "express": "^4.15.3",
+    "get-pixels": "^3.3.0",
+    "gm": "^1.23.0",
+    "lodash": "^4.17.4",
+    "multer": "^1.3.0",
+    "node-tesseract": "^0.2.7",
+    "save-pixels": "^2.3.4",
+    "zeros": "^1.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.build.ge.com/ACEDigitalSolutions/MFGDigitalOCR.git"
+  },
+  "keywords": [
+    "ocr"
+  ],
+  "author": "ace",
+  "license": "ISC"
+}

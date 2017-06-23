@@ -1,0 +1,8 @@
+var gm = require('gm').subClass({imageMagick: true});
+
+// resize and remove EXIF profile data
+gm('rotation30.jpg')
+.deskew(40%)
+.write('resize.jpg', function (err) {
+  if (!err) {console.log('done');}else{console.log(err+'error');}
+});
