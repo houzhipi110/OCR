@@ -1,0 +1,371 @@
+{
+  "blocks1": [
+    {
+      "blockId": "Line01",
+      "cellNum": "1",
+      "topLeftX": "10",
+      "topLeftY": "136",
+      "bottomRightX": "45",
+      "bottomRightY": "176",
+      "Position": "null",
+       "OffsetX": 0,
+      "OffsetY": 0
+
+    },
+    {
+      "blockId": "Line02",
+      "cellNum": "1",
+      "topLeftX": "10",
+      "topLeftY": "201",
+      "bottomRightX": "45",
+      "bottomRightY": "242",
+      "Position": "null",
+      "OffsetX": 0,
+      "OffsetY": 0
+    },
+    {
+      "blockId": "Line03",
+      "cellNum": "1",
+      "topLeftX": "10",
+      "topLeftY": "261",
+      "bottomRightX": "60",
+      "bottomRightY": "301",
+      "Position": "null",
+       "OffsetX": 0,
+      "OffsetY": 0
+    },
+    {
+      "blockId": "Line04",
+      "cellNum": "1",
+      "topLeftX": "10",
+      "topLeftY": "326",
+      "bottomRightX": "56",
+      "bottomRightY": "369",
+      "Position": "null",
+      "OffsetX": 0,
+      "OffsetY": 0
+    },
+    {
+      "blockId": "Line05",
+      "cellNum": "1",
+      "topLeftX": "10",
+      "topLeftY": "388",
+      "bottomRightX": "59",
+      "bottomRightY": "432",
+      "Position": "null",
+     "OffsetX": 0,
+      "OffsetY": 0
+    },
+    {
+      "blockId": "Line06",
+      "cellNum": "1",
+      "topLeftX": "10",
+      "topLeftY": "452",
+      "bottomRightX": "58",
+      "bottomRightY": "489",
+      "Position": "null",
+      "OffsetX": 0,
+      "OffsetY": 0
+    },
+    {
+      "blockId": "MEAS01",
+      "cellNum": "1",
+      "topLeftX": "860",
+      "topLeftY": "136",
+      "bottomRightX": "1016",
+      "bottomRightY": "176",
+      "Position": "null",
+     "OffsetX": 0,
+      "OffsetY": 0
+    },
+    {
+      "blockId": "MEAS02",
+      "cellNum": "1",
+      "topLeftX": "860",
+      "topLeftY": "201",
+      "bottomRightX": "1016",
+      "bottomRightY": "242",
+      "Position": "null",
+      "OffsetX": 0,
+      "OffsetY": 0
+    },
+    {
+      "blockId": "MEAS03",
+      "cellNum": "1",
+      "topLeftX": "860",
+      "topLeftY": "261",
+      "bottomRightX": "1016",
+      "bottomRightY": "301",
+      "Position": "null",
+      "OffsetX": 0,
+      "OffsetY": 0
+    },
+    {
+      "blockId": "MEAS04",
+      "cellNum": "1",
+      "topLeftX": "860",
+      "topLeftY": "326",
+      "bottomRightX": "1016",
+      "bottomRightY": "369",
+      "Position": "null",
+      "OffsetX": 0,
+      "OffsetY": 0
+    },
+    {
+      "blockId": "MEAS05",
+      "cellNum": "1",
+      "topLeftX": "860",
+      "topLeftY": "388",
+      "bottomRightX": "1016",
+      "bottomRightY": "432",
+      "Position": "null",
+     "OffsetX": 0,
+      "OffsetY": 0
+    },
+    {
+      "blockId": "MEAS06",
+      "cellNum": "1",
+      "topLeftX": "860",
+      "topLeftY": "452",
+      "bottomRightX": "1016",
+      "bottomRightY": "489",
+      "Position": "null",
+      "OffsetX": 0,
+      "OffsetY": 0
+    }
+  ],
+  "blocks2": [
+    {
+      "blockId": "line01",
+      "cellNum": "1",
+      "topLeftX": "10",
+      "topLeftY": "150",
+      "bottomRightX": "143",
+      "bottomRightY": "186",
+      "Position": "null",
+       "OffsetX": 0,
+      "OffsetY": 0
+    },
+    {
+      "blockId": "MEAS01",
+      "cellNum": "1",
+      "topLeftX": "945",
+      "topLeftY": "150",
+      "bottomRightX": "1168",
+      "bottomRightY": "188",
+      "Position": "null",
+       "OffsetX": 0,
+      "OffsetY": 0
+    }
+  ],
+  "blocks3": [
+    {
+      "blockId": "line01",
+      "cellNum": "1",
+      "topLeftX": "10",
+      "topLeftY": "150",
+      "bottomRightX": "143",
+      "bottomRightY": "186",
+      "Position": "null",
+       "OffsetX": 0,
+      "OffsetY": 0
+    },
+    {
+      "blockId": "MEAS01",
+      "cellNum": "1",
+      "topLeftX": "879",
+      "topLeftY": "150",
+      "bottomRightX": "1035",
+      "bottomRightY": "195",
+      "Position": "null",
+       "OffsetX": 0,
+      "OffsetY": 0
+    }
+  ],
+  "SimpleTable": [
+    {
+      "blockId": "N0_11-12-1",
+      "blockType": "1",
+      "PointX": "154",
+      "PointY": "607",
+      "Segwidth": "2103",
+      "Segheight": "592"
+    },
+    {
+      "blockId": "N0_11-12-2",
+      "blockType": "1",
+      "PointX": "153",
+      "PointY": "1200",
+      "Segwidth": "2103",
+      "Segheight": "592"
+    },
+    {
+      "blockId": "N0_11-12-3",
+      "blockType": "1",
+      "PointX": "153",
+      "PointY": "1795",
+      "Segwidth": "2103",
+      "Segheight": "592"
+    },
+    {
+      "blockId": "N0_11-12-4",
+      "blockType": "1",
+      "PointX": "153",
+      "PointY": "2390",
+      "Segwidth": "2103",
+      "Segheight": "592"
+    },
+    {
+      "blockId": "N0_13",
+      "blockType": "2",
+      "PointX": "153",
+      "PointY": "3607",
+      "Segwidth": "2097",
+      "Segheight": "205"
+    },
+    {
+      "blockId": "N0_14-1",
+      "blockType": "3",
+      "PointX": "153",
+      "PointY": "3856",
+      "Segwidth": "2097",
+      "Segheight": "205"
+    },
+    {
+      "blockId": "N0_14-2",
+      "blockType": "3",
+      "PointX": "153",
+      "PointY": "4070",
+      "Segwidth": "2097",
+      "Segheight": "205"
+    },
+    {
+      "blockId": "N0_14-3",
+      "blockType": "3",
+      "PointX": "153",
+      "PointY": "4283",
+      "Segwidth": "2097",
+      "Segheight": "205"
+    },
+    {
+      "blockId": "N0_15-1",
+      "blockType": "2",
+      "PointX": "153",
+      "PointY": "4532",
+      "Segwidth": "2097",
+      "Segheight": "205"
+    },
+    {
+      "blockId": "N0_15-2",
+      "blockType": "2",
+      "PointX": "153",
+      "PointY": "4745",
+      "Segwidth": "2097",
+      "Segheight": "205"
+    },
+    {
+      "blockId": "N0_15-3",
+      "blockType": "2",
+      "PointX": "153",
+      "PointY": "4958",
+      "Segwidth": "2097",
+      "Segheight": "205"
+    },
+    {
+      "blockId": "N0_15-4",
+      "blockType": "2",
+      "PointX": "153",
+      "PointY": "5171",
+      "Segwidth": "2097",
+      "Segheight": "205"
+    },
+    {
+      "blockId": "N0_16-1",
+      "blockType": "2",
+      "PointX": "153",
+      "PointY": "5422",
+      "Segwidth": "2097",
+      "Segheight": "205"
+    },
+    {
+      "blockId": "N0_16-2",
+      "blockType": "2",
+      "PointX": "153",
+      "PointY": "5635",
+      "Segwidth": "2103",
+      "Segheight": "592"
+    },
+    {
+      "blockId": "N0_17-1",
+      "blockType": "2",
+      "PointX": "153",
+      "PointY": "5883",
+      "Segwidth": "2097",
+      "Segheight": "205"
+    },
+    {
+      "blockId": "N0_17-2",
+      "blockType": "2",
+      "PointX": "153",
+      "PointY": "6097",
+      "Segwidth": "2097",
+      "Segheight": "205"
+    },
+    {
+      "blockId": "N0_18-1",
+      "blockType": "3",
+      "PointX": "153",
+      "PointY": "7081",
+      "Segwidth": "2097",
+      "Segheight": "205"
+    },
+    {
+      "blockId": "N0_18-2",
+      "blockType": "3",
+      "PointX": "153",
+      "PointY": "7294",
+      "Segwidth": "2097",
+      "Segheight": "205"
+    },
+    {
+      "blockId": "N0_19",
+      "blockType": "2",
+      "PointX": "153",
+      "PointY": "7541",
+      "Segwidth": "2097",
+      "Segheight": "205"
+    },
+    {
+      "blockId": "N0_21",
+      "blockType": "2",
+      "PointX": "153",
+      "PointY": "7792",
+      "Segwidth": "2097",
+      "Segheight": "205"
+    },
+    {
+      "blockId": "N0_22",
+      "blockType": "2",
+      "PointX": "153",
+      "PointY": "8039",
+      "Segwidth": "2097",
+      "Segheight": "205"
+    },
+    {
+      "blockId": "N0_24",
+      "blockType": "2",
+      "PointX": "153",
+      "PointY": "8289",
+      "Segwidth": "2097",
+      "Segheight": "205"
+    },
+    {
+      "blockId": "N0_28",
+      "blockType": "2",
+      "PointX": "153",
+      "PointY": "8537",
+      "Segwidth": "2097",
+      "Segheight": "205"
+    }
+  ]
+}
